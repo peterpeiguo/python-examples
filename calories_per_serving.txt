@@ -1,0 +1,4 @@
+apple,50
+banana,105
+costco poutin,200
+tomato,20
