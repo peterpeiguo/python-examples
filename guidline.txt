@@ -1,4 +1,0 @@
-Peter, 1900
-Yan, 1800
-Angel, 2000
-Jimmy, 2300
